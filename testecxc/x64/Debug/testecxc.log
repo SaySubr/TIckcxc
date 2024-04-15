@@ -1,0 +1,3 @@
+﻿  testecxc.cpp
+C:\test\exc\testecxc\testecxc\testecxc.cpp(21,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  testecxc.vcxproj -> C:\test\exc\testecxc\x64\Debug\testecxc.exe
